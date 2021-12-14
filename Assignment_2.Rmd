@@ -31,6 +31,8 @@ In this assignment, we will use the `mpg` dataset, referenced in the book. This 
 ```
 
 
+answer to question 1
+
 ## Question 2
 
 ##### Modify the plot from question 1 to place the variable `class` (representing type of car) on the x-axis. Explain why a scatterplot is not an appropriate way to graph these data.   
